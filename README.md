@@ -20,7 +20,7 @@ This will eventually be included the next Shopware Version (Currently targeting 
     
 ## Note
 
-This plugin uses a separate table (`swagsessionhandler_sessions`) and copies sessions from `s_core_sessions` so it can safetly tested.
+This plugin uses a separate table (`swagsessionhandler_sessions`) and copies sessions from `s_core_sessions` so it can safely tested.
     
 ## License
 
